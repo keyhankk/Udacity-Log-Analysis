@@ -16,19 +16,19 @@ based on the data in the database. This reporting tool is a Python program using
 3. To load the data, cd into the vagrant directory and use the command psql -d news -f newsdata.sql.
 4. Run python log-results.py
 
-#Log Output is: 
+# Log Output is: 
 
         Candidate is jerk, alleges rival - 338647 views for Question above
         Bears love berries, alleges bear - 253801 views for Question above
         Bad things gone, say good people - 170098 views for Question above
 
-#The most popular article authors of all time:
+# The most popular article authors of all time:
 
         Ursula La Multa - 507594 views for Question above
         Rudolf von Treppenwitz - 423457 views for Question above
         Anonymous Contributor - 170098 views for Question above
         Markoff Chaney - 84557 views for Question above
 
-#Days with more than 1% of requests lead to errors:
+# Days with more than 1% of requests lead to errors:
 
         2016-07-17 - 2 views for Question above
