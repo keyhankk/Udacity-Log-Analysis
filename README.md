@@ -1,4 +1,4 @@
-#Log Analysis, the third project in Udacity Full Stack Development Environment
+## Log Analysis, the third project in Udacity Full Stack Development Environment
 1st Project in Udacity NanoDegree Program
 
 
